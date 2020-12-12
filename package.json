@@ -1,0 +1,25 @@
+{
+  "name": "ProyectoS_Tallersia",
+  "version": "1.0.0",
+  "description": "Proyecto Semestral Taller de S. de I.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javier-gallegosm/ProyectoS_Tallersia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javier-gallegosm/ProyectoS_Tallersia/issues"
+  },
+  "homepage": "https://github.com/javier-gallegosm/ProyectoS_Tallersia#readme",
+  "dependencies": {
+    "electron": "^11.1.0",
+    "electron-reload": "^1.5.0",
+    "promise-mysql": "^5.0.1"
+  }
+}
